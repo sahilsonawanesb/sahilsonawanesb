@@ -1,7 +1,8 @@
 # 💫 About Me:
-![Profile Views](https://komarev.com/ghpvc/?username=SahilSonawane&color=blue)
 Hi there! 👋 I'm Sahil. <br><br>I'm currently a final-year student exploring various domains such as full-stack development, machine learning, backend development, and data engineering.<br><br>During my college journey, I have learned and worked with multiple programming languages, libraries, frameworks, and technologies, including Java, JavaScript, TypeScript, React, Python, and AWS.<br><br>In my 7th semester, I completed a two-month internship as a Frontend Developer at Ira Digital.<br><br>My interests range from distributed systems and big data to AI, and I'm always eager to explore new technological horizons.<br><br>On a personal level, I'm passionate about self-improvement and personal growth. <br>I believe that we can always learn and grow, both professionally and personally. <br>I love reading books 📗, listening to podcasts 🎙️, and playing cricket.<br><br>I’m open to full-time opportunities and eager to connect with more people.
 
+## 🌐 Portfolio
+![Portfolio](https://sahil-portfolio-five-alpha.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-sonawane-b83b86348/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1029sahilsonawane@gmail.com) 
